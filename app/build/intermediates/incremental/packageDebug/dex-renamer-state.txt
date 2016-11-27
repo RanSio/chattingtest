@@ -1,0 +1,7 @@
+#Wed Nov 23 23:56:26 KST 2016
+base.0=C\:\\Users\\Asios\\AndroidStudioProjects\\AndroidSendReceiveTest21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e65d65f8270f7bff82a5275add9347880476a77a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Asios\\AndroidStudioProjects\\AndroidSendReceiveTest21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b2737e9ae26621927d5d71c2aa53891f1b4285fa\\classes.dex
+base.1=C\:\\Users\\Asios\\AndroidStudioProjects\\AndroidSendReceiveTest21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b2737e9ae26621927d5d71c2aa53891f1b4285fa
+file.0=C\:\\Users\\Asios\\AndroidStudioProjects\\AndroidSendReceiveTest21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e65d65f8270f7bff82a5275add9347880476a77a\\classes.dex

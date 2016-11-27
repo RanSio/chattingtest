@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asios\AndroidStudioProjects\AndroidSendReceiveTest21\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c39416f01e14eb861fc8d590e5ca55a15ed39216">
+        <dex dex="C:\Users\Asios\AndroidStudioProjects\AndroidSendReceiveTest21\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b2737e9ae26621927d5d71c2aa53891f1b4285fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asios\AndroidStudioProjects\AndroidSendReceiveTest21\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b46533a6c85e4cb507d13013b0c342fecbba6921">
+        <dex dex="C:\Users\Asios\AndroidStudioProjects\AndroidSendReceiveTest21\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e65d65f8270f7bff82a5275add9347880476a77a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Asios\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Asios\AndroidStudioProjects\AndroidSendReceiveTest21\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_a459b6ed95b308af2ae2dd5aec760a52b91a428c\classes.dex" />
+    </item>
+
+</items>
